@@ -10,6 +10,6 @@ function eligible(){
     }
 }
 
-function newfn(){
-    console.log("new func")
+function sayhi(){
+    console.log("say hi")
 }

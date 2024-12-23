@@ -9,3 +9,7 @@ function eligible(){
         console.log("not eligible")
     }
 }
+
+function newfn(){
+    console.log("new func")
+}
